@@ -31,6 +31,10 @@ body {
   font-size: 4rem;
   font-weight: 100;
 }
+
+
+
+
 @media (max-width: 1380px) {
   #headingOfGroup h1 {
     font-size: 3rem;
