@@ -1,0 +1,25 @@
+body {
+    background-color: #e0b1cb;
+    font-family: "Nunito", sans-serif;
+  }
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 100;
+  }
+  #navBarmain .navbar-brand {
+    color: #d90429;
+  }
+  #navBarmain .nav-link {
+    color: white;
+  }
+  #navBarmain .nav-link:hover {
+    color: #d90429;
+  }
+  #navBarmain #searchBtn {
+    color: violet;
+  }
+  #navBarmain #searchBtn:hover {
+    background-color: violet;
+    color: #d90429;
+  }
+  
