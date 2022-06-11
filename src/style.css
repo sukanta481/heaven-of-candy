@@ -11,14 +11,15 @@ body {
   font-size: 2rem;
 }
 #navBarmain .nav-link {
-  color: white;
+  color: #ff7096;
   font-size: 1.5rem;
 }
 #navBarmain .nav-link:hover {
   color: #d90429;
 }
 #navBarmain #searchBtn {
-  color: violet;
+  color: black;
+  font-weight: 200;
 }
 #navBarmain #searchBtn:hover {
   background-color: violet;
@@ -31,28 +32,27 @@ body {
   font-size: 4rem;
   font-weight: 100;
 }
-.red{
+.red {
   color: #d90429;
 }
-.blurb p{
+.blurb p {
   color: #f15bb5;
   line-height: 2;
 }
-#heading{
+#heading {
   font-size: 2.5rem;
 }
-.sub-section{
+.sub-section {
   margin-top: 100px;
 }
 
-.navbar.scrolled{
-  background: g=rgb(222, 192, 222);
+.scrolled {
+  background: rgba(116, 74, 116, 0.2);
 }
-
 
 @media (max-width: 1380px) {
   #headingOfGroup h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 100;
   }
 }
